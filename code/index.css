@@ -11,7 +11,7 @@
     min-height: 56.25rem; /* 56.25rem = 900px */
     top: -4.82rem; /* -77.125px */
     left: 3.21rem; /* 19.313px */
-    padding: 0rem 3rem 0rem 3rem; /* 48px = 3rem */
+    padding: 0rem 0rem 0rem 3.5rem; /* 48px = 3rem */
     gap: 0rem;
     opacity: 0rem;
     background-color: #F5F5EF;
@@ -343,10 +343,11 @@
     width: 84.875rem; /* 1344px = 84.875rem */
     height: 21.25rem; /* 340px = 21.25rem */
     padding: 6rem 0rem 6rem 0rem; /* 96px = 6rem */
-    gap: 6rem; /* 96px = 6rem */
+    gap: 8rem; /* 96px = 6rem */
     border: 0px 0px 0.125rem 0px; /* 2px = 0.125rem */
     opacity: 0px;
     display: flex;
+    margin-bottom: -13.5rem;
 }
 
 .p1 {
@@ -368,7 +369,7 @@
 .pb2 {
     width: 39rem; /* 624px = 39rem */
     height: 2.5rem; /* 40px = 2.5rem */
-    padding: 0.5rem 0rem 0rem 0rem; /* 8px = 0.5rem */
+    padding: -1rem 0rem 0rem 0rem; /* 8px = 0.5rem */
     gap: 0px;
     opacity: 0px;
 }
