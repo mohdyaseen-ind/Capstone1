@@ -415,6 +415,7 @@
     border: 0.125rem 0px 0px 0px; /* 2px = 0.125rem */
     opacity: 0px;
     border-top: 0.125rem solid rgba(0, 0, 0, 1);
+    transition: all 0.3s ease-out;
 }
 
 .textthr {
@@ -794,4 +795,9 @@
 .buttonLarge p:hover{
     cursor: pointer;
     font-size: 1.3rem;
+}
+.one img:hover, .two img:hover, .three img:hover{
+    cursor: pointer;
+    width: 28rem;
+    height: 28rem;
 }
